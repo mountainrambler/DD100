@@ -1,0 +1,74 @@
+[
+    {
+        "varukod": "789",
+        "namn": "Apelsin",
+        "styckepris": 7.5,
+        "lagersaldo": 187
+    },
+    {
+        "varukod": "123",
+        "namn": "Banan",
+        "styckepris": 10.0,
+        "lagersaldo": 86
+    },
+    {
+        "varukod": "333",
+        "namn": "Blomma",
+        "styckepris": 2.5,
+        "lagersaldo": 42
+    },
+    {
+        "varukod": "111",
+        "namn": "Cykel",
+        "styckepris": 500.0,
+        "lagersaldo": 7
+    },
+    {
+        "varukod": "1066",
+        "namn": "Doc Martens",
+        "styckepris": 1500.0,
+        "lagersaldo": 6
+    },
+    {
+        "varukod": "1623",
+        "namn": "Elmoped",
+        "styckepris": 45000.0,
+        "lagersaldo": 2
+    },
+    {
+        "varukod": "1999",
+        "namn": "LP-skiva",
+        "styckepris": 225.0,
+        "lagersaldo": 5
+    },
+    {
+        "varukod": "9999",
+        "namn": "Lear Jet",
+        "styckepris": 100000000.0,
+        "lagersaldo": 1
+    },
+    {
+        "varukod": "1265",
+        "namn": "MacBook Pro M3",
+        "styckepris": 29000.0,
+        "lagersaldo": 6
+    },
+    {
+        "varukod": "22-A",
+        "namn": "Nitroglycerin",
+        "styckepris": 4000.0,
+        "lagersaldo": 2
+    },
+    {
+        "varukod": "6331",
+        "namn": "Olivolja",
+        "styckepris": 100.0,
+        "lagersaldo": 49
+    },
+    {
+        "varukod": "456",
+        "namn": "Äpple",
+        "styckepris": 5.0,
+        "lagersaldo": 46
+    }
+]
